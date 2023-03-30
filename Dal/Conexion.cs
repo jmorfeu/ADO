@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 
-namespace Repaso002
+namespace Dal
 {
      public class Conexion
     {

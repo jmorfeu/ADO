@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso001", "Repaso001\Repa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso002", "Repaso002\Repaso002.csproj", "{FDC3BCED-69CB-43E5-AF37-26CB9DE54BA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{943F6869-F2D1-4F19-8DFF-972230839E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{E43FA6A1-D832-4B26-8BCE-0204D6A95A86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FDC3BCED-69CB-43E5-AF37-26CB9DE54BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC3BCED-69CB-43E5-AF37-26CB9DE54BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC3BCED-69CB-43E5-AF37-26CB9DE54BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943F6869-F2D1-4F19-8DFF-972230839E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943F6869-F2D1-4F19-8DFF-972230839E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943F6869-F2D1-4F19-8DFF-972230839E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943F6869-F2D1-4F19-8DFF-972230839E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43FA6A1-D832-4B26-8BCE-0204D6A95A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43FA6A1-D832-4B26-8BCE-0204D6A95A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43FA6A1-D832-4B26-8BCE-0204D6A95A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43FA6A1-D832-4B26-8BCE-0204D6A95A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
